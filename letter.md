@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Motivational letter
+permalink: /letter/
 ---
 
 I have always been interested in the subject of design. After some time studying media design at the Faculty of journalism of Moscow State University I discovered that web design is a fast evolving industry, and its possibilities seem endless comparing to graphic and printed mass media design. As I graduated in 2006 with the graduation paper devoted to crossbrowser design nuances, I was already keen on continuing studying web design. My Ph.D. thesis which was finalized and defended in the end of 2009 was devoted to the multiple issues encompassing the design of newspapers online. After that I've been involved into teaching design at my faculty, at the same time doing research work. I had also started to pursue a career of freelance web designer and had some success in this role, having designed or coded more than 30 websites since 2005. 
