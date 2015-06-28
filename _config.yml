@@ -46,6 +46,12 @@ url: http://certainlyakey.github.io
 baseurl: ""
 
 #
+# !! set by certainlyakey !!
+#
+
+excerpt_separator:''
+
+#
 # !! You don't need to change any of the configuration flags below !!
 #
 
