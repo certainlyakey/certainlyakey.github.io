@@ -289,6 +289,8 @@ footer {
 
 .post {
   h1, h2, h3, h4, h5, h6 {
+    em {color:$gray; }
     &:first-child {line-height:1.2; }
   }
+  iframe, img {display:block; margin:0 auto; padding:10px; border-radius:5px; border:1px solid $lightGray;}
 }
