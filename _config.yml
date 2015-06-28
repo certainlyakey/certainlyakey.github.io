@@ -49,7 +49,7 @@ baseurl: ""
 # !! set by certainlyakey !!
 #
 
-excerpt_separator: ""
+excerpt_separator: <!--more-->
 
 #
 # !! You don't need to change any of the configuration flags below !!
