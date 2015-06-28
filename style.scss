@@ -287,4 +287,8 @@ footer {
 
 // Custom changes
 
-.post h1:first-child {line-height:1.2; }
+.post {
+  h1, h2, h3, h4, h5, h6 {
+    &:first-child {line-height:1.2; }
+  }
+}
