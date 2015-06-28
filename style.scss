@@ -292,5 +292,8 @@ footer {
     em {color:$gray; }
     &:first-child {line-height:1.2; }
   }
+  h1:first-child {
+    strong {font-weight:300;}
+  }
   iframe, img {display:block; margin:0 auto; padding:10px; border-radius:5px; border:1px solid $lightGray;}
 }
