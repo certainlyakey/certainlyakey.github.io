@@ -4,10 +4,10 @@ layout: default
 
 <article class="post">
   <h1>
-    {% if page.sampleno %}
-      <strong>Sample {{ page.sampleno }}.</strong> 
-    {% endif %}
     {{ page.title }}
+    {% if page.course %}
+      <em class="course-name">{{ page.course }}</em> 
+    {% endif %}
   </h1>
 
   <div class="entry">
