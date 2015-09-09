@@ -7,9 +7,12 @@ layout: default
     <article class="post">    
       
       <h1><a href="{{ site.baseurl }}{{ post.url }}">
-        {% if post.sampleno %}
-          <strong>Sample {{ post.sampleno }}.</strong> {{ post.title }}</a></h1>
+        {{ post.title }}
+        {% if page.course %}
+          <em class="course-name">{{ page.course }}</em> 
         {% endif %}
+        </a></h1>
+        
 
       <div class="entry">
         {{ post.excerpt }}
