@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: An educational interactive demo
 excerpt: An interactive demonstration of CSS box model
 sampleno: 5

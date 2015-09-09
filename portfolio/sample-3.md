@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: An educational animated graphic
 excerpt: An animated graphic for CSS class
 sampleno: 3

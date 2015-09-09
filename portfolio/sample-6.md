@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: A content-oriented website design and development
 excerpt: A website for Moscow Lexical Typological group
 sampleno: 6

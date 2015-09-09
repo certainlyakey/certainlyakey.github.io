@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: An academic paper
 excerpt: An academic paper on animation in user interfaces published in "Mediascope" media research journal
 sampleno: 2

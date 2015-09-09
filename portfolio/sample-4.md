@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: An educational interactive illustration
 excerpt: An educational interactive illustration on architecture of letter
 sampleno: 4
