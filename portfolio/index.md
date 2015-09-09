@@ -1,8 +1,11 @@
 ---
 layout: page
-title: A note for a conference on design of mass media
-excerpt: A note for Mass Media Design XXI Century Trends conference
-sampleno: 1
+title: Portfolio
 ---
 
-#fkfkfk
+<h2>dir1 specific header</h2>
+<p>dir1specific content. bla bla bla.</p>
+{% for page in site.pages %}
+  <h3><a title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h3>
+  <p>{{page.excerpt}}</p>
+{% endfor %}  
