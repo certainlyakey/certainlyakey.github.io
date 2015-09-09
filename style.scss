@@ -298,6 +298,15 @@ footer {
   iframe, img {display:block; margin:0 auto; padding:10px; border-radius:5px; border:1px solid $lightGray;}
   .course-name {
     font-family: $helveticaNeue; 
-    font-size: 16px;
+    font-size: 15px;
+    font-style:normal; 
+    border-radius:5px; 
+    background:$gray;
+    position:relative; 
+    top:-3px; 
+    padding:0 5px; 
+    font-weight:normal; 
+    text-transform:lowercase; 
+    color:$white; 
   }
 }
