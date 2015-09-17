@@ -1,3 +1,3 @@
 #README
 
-This is a Jekyll based site ([Jekyll Now](https://github.com/barryclark/jekyll-now)) for the Tallinn University HCI master programme portfolio of Aleksandr Beliaev. Welcome!
+This is a Jekyll based site  of Aleksandr Beliaev ([Jekyll Now](https://github.com/barryclark/jekyll-now)) for the Tallinn University HCI master programme. Welcome!
