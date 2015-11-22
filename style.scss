@@ -295,7 +295,8 @@ footer {
   h1:first-child {
     strong {font-weight:300;}
   }
-  iframe, img {display:block; margin:0 auto; padding:10px; border-radius:5px; border:1px solid $lightGray;}
+  iframe, img, figure {display:block; margin:0 auto; padding:10px; border-radius:5px; border:1px solid $lightGray;}
+  figure img {border:none; padding:0; }
 }
 .course-name {
   font-family: $helveticaNeue; 
