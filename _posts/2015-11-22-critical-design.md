@@ -1,6 +1,6 @@
 ---
 layout: post
-title: M5 group assignment — Elina Kapanen, Liina Kukk, Aleksandr Beliaev
+title: M5 group assignment — Elina Kapanen, Liina Kukk, Liga Letina, Aleksandr Beliaev
 excerpt: How to help homeless pets?
 course: Foundations of HCI
 ---
