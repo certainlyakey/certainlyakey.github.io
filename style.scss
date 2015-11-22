@@ -319,7 +319,7 @@ $cat_w:200px;
 
 // Individual posts
 
-.cat_gallery {
+.cat_gallery {text-align:center; 
   figure {width:$cat_w; display:inline-block; margin-right:10px; background-color:white; }
   figure:nth-child(even) {transform:rotate(-2deg); transition:transform ease-in .4s;}
   figure:nth-child(odd) {transform:rotate(2deg); transition:transform ease-in .4s;}
