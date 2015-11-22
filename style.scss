@@ -7,6 +7,7 @@
 
 @import "_reset";
 @import "_variables";
+
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -286,6 +287,8 @@ footer {
 
 
 // Custom changes
+$cat_w:200px;
+
 
 .post {
   h1, h2, h3, h4, h5, h6 {
@@ -316,7 +319,6 @@ footer {
 // Individual posts
 
 .cat_gallery {
-  $cat_w:200px;
   figure {width:$cat_w; display:inline-block; margin-right:10px; background-color:white; }
   figure:nth-child(even) {transform:rotate(-2deg);}
   figure:nth-child(odd) {transform:rotate(2deg);}
