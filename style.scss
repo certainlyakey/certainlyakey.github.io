@@ -298,6 +298,7 @@ $cat_w:200px;
   h1:first-child {
     strong {font-weight:300;}
   }
+  ul ul, ul ol, ol ul {margin-left:10px;}
   iframe, img, figure {display:block; margin:0 auto; padding:10px; border-radius:5px; border:1px solid $lightGray;}
   figure img {border:none; padding:0 0 5px; }
 }
@@ -313,14 +314,16 @@ $cat_w:200px;
   text-transform:lowercase; 
   color:$white; 
 }
-.floated {float:left; width:$cat_w; margin-right:10px; }
-.floated-right {float:right; width:$cat_w; margin-left:10px; }
+.floated {float:left; width:$cat_w; margin-right:30px !important; }
+.floated-right {float:right; width:$cat_w; margin-left:30px !important; }
 
 // Individual posts
 
 .cat_gallery {
   figure {width:$cat_w; display:inline-block; margin-right:10px; background-color:white; }
-  figure:nth-child(even) {transform:rotate(-2deg);}
-  figure:nth-child(odd) {transform:rotate(2deg);}
+  figure:nth-child(even) {transform:rotate(-2deg); transition:transform ease-in .4s;}
+  figure:nth-child(odd) {transform:rotate(2deg); transition:transform ease-in .4s;}
+  figure:nth-child(even):hover {transform:rotate(2deg); transition:transform ease-out .25s;}
+  figure:nth-child(odd):hover {transform:rotate(-2deg); transition:transform ease-out .25s;}
   
 }
