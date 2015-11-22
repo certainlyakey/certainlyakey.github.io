@@ -316,7 +316,12 @@ footer {
 // Individual posts
 
 .cat_gallery {
-  figure {width:200px;}
+  $cat_w:200px;
+  figure {width:$cat_w; display:inline-block; margin-right:10px; }
   figure:nth-child(even) {transform:rotate(-2deg);}
   figure:nth-child(odd) {transform:rotate(2deg);}
+  
+  .floated {width:$cat_w; margin-right:10px; }
+  .floated-right {width:$cat_w; margin-left:10px; }
+
 }
