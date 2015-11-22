@@ -310,8 +310,8 @@ footer {
   text-transform:lowercase; 
   color:$white; 
 }
-.floated {float:left;}
-.floated-right {float:right;}
+.floated {float:left; width:$cat_w; margin-right:10px; }
+.floated-right {float:right; width:$cat_w; margin-left:10px; }
 
 // Individual posts
 
@@ -321,7 +321,4 @@ footer {
   figure:nth-child(even) {transform:rotate(-2deg);}
   figure:nth-child(odd) {transform:rotate(2deg);}
   
-  .floated {width:$cat_w; margin-right:10px; }
-  .floated-right {width:$cat_w; margin-left:10px; }
-
 }
