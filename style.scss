@@ -296,7 +296,7 @@ footer {
     strong {font-weight:300;}
   }
   iframe, img, figure {display:block; margin:0 auto; padding:10px; border-radius:5px; border:1px solid $lightGray;}
-  figure img {border:none; padding:0; }
+  figure img {border:none; padding:0 0 5px; }
 }
 .course-name {
   font-family: $helveticaNeue; 
@@ -309,4 +309,14 @@ footer {
   font-weight:normal; 
   text-transform:lowercase; 
   color:$white; 
+}
+.floated {float:left;}
+.floated-right {float:right;}
+
+// Individual posts
+
+.cat_gallery {
+  figure {width:200px;}
+  figure:nth-child(even) {transform:rotate(-2deg);}
+  figure:nth-child(odd) {transform:rotate(2deg);}
 }
