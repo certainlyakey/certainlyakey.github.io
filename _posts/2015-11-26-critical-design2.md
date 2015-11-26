@@ -1,6 +1,6 @@
 ---
 layout: post
-title: M5 group assignment design brief 2
+title: M5 group assignment design brief 2 — Elina Kapanen, Liina Kukk, Liga Letina, Aleksandr Beliaev 
 excerpt: How to help homeless pets? — alternative look
 course: Foundations of HCI
 ---
@@ -31,6 +31,8 @@ We think the key problem is that cats are treated as a things, but they should b
 
 - cats that are looking for new goal of their lives and new family
 - humans — cat’s family members & hosts, willing to have a cat in their family. (those that didn’t get along the cat before are also welcome)
+
+<div class="cat_gallery" markdown="0"><figure><img src="/images/cats/Laima.jpg" alt="Laima"><figcaption>Laima</figcaption></figure><figure><img src="/images/cats/Loora2.jpg" alt="Loora"><figcaption>Loora</figcaption></figure><figure><img src="/images/cats/Maarus.jpg" alt="Maarus"><figcaption>Maarus</figcaption></figure><figure><img src="/images/cats/Niko-Peep2.jpg" alt="Niko-Peep"><figcaption>Niko-Peep</figcaption></figure><figure><img src="/images/cats/Ruudi.jpg" alt="Ruudi"><figcaption>Ruudi</figcaption></figure><figure><img src="/images/cats/parli.png" alt="Parli"><figcaption>Pärli</figcaption></figure></div>
 
 ##Critical artifacts
 
