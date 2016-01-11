@@ -327,6 +327,6 @@ $cat_w:200px;
   figure:nth-child(odd):hover {transform:rotate(-2deg); transition:transform ease-out .25s;}
   
 }
-a:target {
+:target {
   background:$coloredacc;
 }
