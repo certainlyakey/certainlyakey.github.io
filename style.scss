@@ -296,7 +296,7 @@ $cat_w:200px;
     &:first-child {line-height:1.2; }
   }
   h1:first-child {
-    strong {font-weight:300;}
+    strong {font-weight:300; margin-bottom:51px;}
   }
   ul ul, ul ol, ol ul {margin-left:10px;}
   iframe, img, figure {display:block; margin:0 auto; padding:10px; border-radius:5px; border:1px solid $lightGray;}
