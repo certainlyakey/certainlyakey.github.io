@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Biometric data in UX studies
-excerpt: Individual assignment 4
+excerpt: Individual assignment 5
 course: Evaluating the User Experience
 ---
 
