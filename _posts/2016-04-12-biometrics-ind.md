@@ -1,0 +1,12 @@
+---
+layout: post
+title: Biometric data in UX studies
+excerpt: Individual assignment 4
+course: Evaluating the User Experience
+---
+
+The most interesting paper out of three chosen by me was initially the paper by Szwoch. The automatic recognition of emotions is a part of future of Human Computer Interaction, and the paper presented one of the first steps made in that direction. Of course, the accurateness of predictions made by measuring biometric data still leaves a lot to be desired. The paper gives a good overview of different methods of measuring the physiological data. However, the valuability of these methods is not well proven yet (even their already old variations such as polygraph doesn't give a secure result). And the tools to get such kind of information are still often inconvenient for an end-user, costly and require much time and competence to analyze correctly. The researchers have chosen a very simple target - emotional impact could slow a game down or speed it up. Possibly measuring physiological response will become more valuable in games and entertainment apps and its results will be applied in a more varied and interesting number of ways. I would select the methodological procedure offered by this paper for our case.
+
+Another paper that I've read is the one by Slovak et al. It makes a good point about the idea that emotions should be evaluated in context of particular interaction, because they're socially constituted. For me it means that we could bring parallels between emotions that rise in the course of interaction and those that appear during interpersonal communication. I also find it useful to invite pairs of friends for testing procedures in the case where it's applicable - and it certainly would be applicable in the case of our app. However it's harder to measure this kind of response because there're more variables here.
+
+The last paper I've read was the one by Cutrell and Guan. It gives a good short overview of eyetracking methodology. Though the results of the study seem obvious (users that were conducting navigational tasks performed best with short snippets and vice versa) the eyetracking procedures and variables seem accurate, reproducible, and useful. We could use this study as a reference for how to conduct an eyetracking research for reaching our own targets.
