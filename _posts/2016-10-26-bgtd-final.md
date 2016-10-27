@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game studies
+title: Game concept of a game
 excerpt: Final assignment — Game concept
 course: Basics of Game Theory and Design
 ---
@@ -40,7 +40,7 @@ Important game elements here are:
 
 The game is intended to be either web-based or mobile app based. The reason behind this is that its simple mechanic is okay for quick introduction into the typography terms or for playing a 5-10 minute session on the go. It's meant thus to be controlled with mouse, touch, or possibly keyboard. As this game is a learning game it'll probably be distributed around for free as a link to a website or a application.
 
-Here are some screenshots of Game-of-type graphical prototype:
+Here are some screenshots of a Game-of-type graphical prototype made by me:
 
 ![Screenshot 1](/images/game-of-type/1.png)
 ![Screenshot 2](/images/game-of-type/2.png)
