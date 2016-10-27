@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game concept of a game
+title: Game concept
 excerpt: Final assignment — Game concept
 course: Basics of Game Theory and Design
 ---
