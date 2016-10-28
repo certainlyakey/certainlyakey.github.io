@@ -1,1 +1,2045 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wra",
+				"wrap\t.wrap()"
+			],
+			[
+				"$col",
+				"$color-accent\t(_postdate.scss)"
+			],
+			[
+				"spa",
+				"spacing-x\t(_single-post.scss)"
+			],
+			[
+				"$color-",
+				"$color-accent\t(_variables.scss)"
+			],
+			[
+				"com",
+				"compensation"
+			],
+			[
+				"$colobd",
+				"$color-backdrop\t(_variables.scss)"
+			],
+			[
+				"$loca",
+				"$local-frame-bdwidth"
+			],
+			[
+				"def",
+				"defined\t(main.css)"
+			],
+			[
+				"twig",
+				"twig_ternary\ttwig_ternary"
+			],
+			[
+				"u-",
+				"u-screenreader-text\t(main.css)"
+			],
+			[
+				"tra",
+				"translate\t(studies.twig)"
+			],
+			[
+				"art",
+				"artworks"
+			],
+			[
+				"impo",
+				"importance"
+			],
+			[
+				"sce",
+				"scenarios"
+			],
+			[
+				"popu",
+				"popularity"
+			],
+			[
+				"$fw",
+				"$fw-bold\t(_variables.scss)"
+			],
+			[
+				"c-ful",
+				"c-fullslideshow-group"
+			],
+			[
+				"Da",
+				"Dashboard"
+			],
+			[
+				"$colb",
+				"$color-blue\t(_sticker.scss)"
+			],
+			[
+				"th",
+				"this\t$(this)"
+			],
+			[
+				"spacing",
+				"spacing-x\t(_captionedgroup.scss)"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"$colo",
+				"$color-darkgray\t(_variables.scss)"
+			],
+			[
+				"$color-da",
+				"$color-darkgray-l\t(_variables.scss)"
+			],
+			[
+				"$co",
+				"$color-backdrop\t(_variables.scss)"
+			],
+			[
+				"partic",
+				"participatory"
+			],
+			[
+				"inter",
+				"interpretative"
+			],
+			[
+				"diff",
+				"difference"
+			],
+			[
+				"quant",
+				"quantitative"
+			],
+			[
+				"obs",
+				"observation"
+			],
+			[
+				"demons",
+				"demonstrate"
+			],
+			[
+				"ava",
+				"available"
+			],
+			[
+				"prob",
+				"probably"
+			],
+			[
+				"dest",
+				"destination"
+			],
+			[
+				"resour",
+				"resourceful"
+			],
+			[
+				"js_",
+				"js_app"
+			],
+			[
+				"decora",
+				"decorating"
+			],
+			[
+				"att",
+				"attribute"
+			],
+			[
+				"assoc",
+				"associate\t(exove accessibility presentation notes.txt)"
+			],
+			[
+				"prop",
+				"property"
+			],
+			[
+				"ind",
+				"indicate"
+			],
+			[
+				"dext",
+				"dexterity"
+			],
+			[
+				"des",
+				"designers"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"complem",
+				"complementary"
+			],
+			[
+				"acc",
+				"accessible"
+			],
+			[
+				"regul",
+				"regulation"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"ext",
+				"extension"
+			],
+			[
+				"dev",
+				"developers"
+			],
+			[
+				"js-",
+				"js-window-scrolled\t(_hyy.js)"
+			],
+			[
+				"$l-",
+				"$l-header_padx"
+			],
+			[
+				"ham",
+				"hamburger"
+			],
+			[
+				"news",
+				"newstype"
+			],
+			[
+				"tru",
+				"truncate\t(art.twig)"
+			],
+			[
+				"side",
+				"sidebar"
+			],
+			[
+				"event",
+				"eventdate"
+			],
+			[
+				"remo",
+				"removeAttr\t.removeAttr()"
+			],
+			[
+				"aria-",
+				"aria-expanded"
+			],
+			[
+				"text-",
+				"text-styled-links\t(_front-menu.scss)"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"offs",
+				"offscreen_sidebar\t(_offscreen-sidebar.scss)"
+			],
+			[
+				"too",
+				"toolbarHeight"
+			],
+			[
+				"eac",
+				"each\t.each()"
+			],
+			[
+				"conte",
+				"content-fixed"
+			],
+			[
+				"app",
+				"appear"
+			],
+			[
+				"$fon",
+				"$font-family-sans-serif"
+			],
+			[
+				"svg",
+				"svg_sprite_path"
+			],
+			[
+				"$search-content-paddingx-",
+				"$search-content-paddingx-inner"
+			],
+			[
+				"choo",
+				"chooser_wrapper\t(page-home.php)"
+			],
+			[
+				"$p",
+				"$primary-color"
+			],
+			[
+				"search-",
+				"search-open\t(_hyy.js)"
+			],
+			[
+				"php",
+				"php_ternary_operator\tphp_ternary_operator"
+			],
+			[
+				"$overlay-",
+				"$overlay-front-color\t(_header.scss)"
+			],
+			[
+				"act",
+				"actions"
+			],
+			[
+				"offsc",
+				"offscreen_sidebar\t(page.tpl.php)"
+			],
+			[
+				"close_m",
+				"close_middle_from\t(_animations.scss)"
+			],
+			[
+				"togg",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"cos",
+				"content-shown"
+			],
+			[
+				"inn",
+				"inner_class"
+			],
+			[
+				"sz",
+				"size\tBourbon"
+			],
+			[
+				"da",
+				"darkened-background\t(template.php)"
+			],
+			[
+				"lea",
+				"leafMap"
+			],
+			[
+				"curr",
+				"currentColor\t(_views.scss)"
+			],
+			[
+				"#filter_toggler_",
+				"#filter_toggler_mosaic\t(_autoliitto.js)"
+			],
+			[
+				"fil",
+				"filter_tabs_content"
+			],
+			[
+				"e",
+				"each\t$.each()"
+			],
+			[
+				"$fil",
+				"$filterToggler"
+			],
+			[
+				"compone",
+				"component"
+			],
+			[
+				"$color",
+				"$color_darktext"
+			],
+			[
+				"fiel",
+				"fieldset"
+			],
+			[
+				"$color_",
+				"$color_accent"
+			],
+			[
+				"foc",
+				"focused"
+			],
+			[
+				"rend",
+				"rendered"
+			],
+			[
+				"autom",
+				"automatically"
+			],
+			[
+				"la",
+				"landmarks"
+			],
+			[
+				"$br",
+				"$brand-blue"
+			],
+			[
+				"dark",
+				"dark-background"
+			],
+			[
+				"$ro",
+				"$row-width-wider\t(_main.scss)"
+			],
+			[
+				"hero-c",
+				"hero-content"
+			],
+			[
+				"al-",
+				"al-box-shadow\t(_views.scss)"
+			],
+			[
+				"al",
+				"al-box-shadow\t(_views.scss)"
+			],
+			[
+				"tb",
+				"tb_fz"
+			],
+			[
+				"block",
+				"blockquote\tTag"
+			],
+			[
+				"aja",
+				"ajax-progress"
+			],
+			[
+				"rem",
+				"rem-calc"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"pagem",
+				"pagemenu_dropdown"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"trans",
+				"transparentize"
+			],
+			[
+				"con",
+				"continuously"
+			],
+			[
+				"continuo",
+				"continuous"
+			],
+			[
+				"nav",
+				"navigation"
+			],
+			[
+				"tab",
+				"tabindex\tAttr"
+			],
+			[
+				"conten",
+				"contentinfo\t(social-aria.html)"
+			],
+			[
+				"Seco",
+				"Secondary"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"hea",
+				"header_height"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"descr",
+				"description"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"vap",
+				"vapourwave"
+			],
+			[
+				"enterta",
+				"entertainment"
+			],
+			[
+				"hier",
+				"hierarchical"
+			],
+			[
+				"deli",
+				"deliberately"
+			],
+			[
+				"Compuls",
+				"Compulsory"
+			],
+			[
+				"compuls",
+				"compulsory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2016-10-26-bgtd-final.md",
+			"settings":
+			{
+				"buffer_size": 6419,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "du",
+		"selected_items":
+		[
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"seq",
+				"Number Sequence"
+			],
+			[
+				"remov",
+				"Reg Replace: Remove Excessive Spaces"
+			],
+			[
+				"sync",
+				"Side Bar: Disable Syncing"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"bookm",
+				"Bookmarks: Select Next"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"colo",
+				"Color Highlighter: Color Picker"
+			],
+			[
+				"remq",
+				"Reg Replace: Remove quotes"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remo",
+				"Reg Replace: Remove quotes"
+			],
+			[
+				"git bl",
+				"GitHub: Blame"
+			],
+			[
+				"spac",
+				"Reg Replace: Remove Excessive Spaces"
+			],
+			[
+				"fav",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"favo",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"set curr",
+				"Schemr: Reset scheme for current syntax"
+			],
+			[
+				"sch",
+				"Schemr: Set scheme for current syntax"
+			],
+			[
+				"list",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"rand",
+				"Schemr: Random scheme"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"scss",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"copy ",
+				"File: Copy Path"
+			],
+			[
+				"co",
+				"Color Highlighter: Convert Color"
+			],
+			[
+				"",
+				"Color Highlighter: Convert Color"
+			],
+			[
+				"conv",
+				"Color Highlighter: Convert Color"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"bl",
+				"GitHub: Blame (master)"
+			],
+			[
+				"das",
+				"Reg Replace: Replace Dashes With Underscores"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"move",
+				"Move Tab: To the left"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sideb",
+				"Side Bar: Reveal File"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"side",
+				"Side Bar: Reveal File"
+			],
+			[
+				"field",
+				"MultiEditUtils: Selection as Fields"
+			],
+			[
+				"space",
+				"Reg Replace: Remove Excessive Spaces"
+			],
+			[
+				"reg re",
+				"RegReplace: Edit Regular Expression Rule"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"dlee",
+				"File: Delete"
+			],
+			[
+				"theme",
+				"Schemr: List all schemes"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"bla",
+				"GitHub: Blame (master)"
+			],
+			[
+				"norm",
+				"MultiEditUtils: Normalize region ends"
+			],
+			[
+				"pat",
+				"File: Copy Path From Project"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"reve",
+				"Side Bar: Reveal File"
+			],
+			[
+				"disa",
+				"Side Bar: Disable Syncing"
+			],
+			[
+				"revea",
+				"Side Bar: Reveal File"
+			],
+			[
+				"nu",
+				"Number Sequence"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Customized"
+			],
+			[
+				"quo",
+				"Reg Replace: Remove quotes"
+			],
+			[
+				"dash",
+				"Reg Replace: Replace Dashes With Underscores"
+			],
+			[
+				"repda",
+				"Reg Replace: Replace Dashes With Underscores"
+			],
+			[
+				"remove",
+				"Reg Replace: Remove quotes"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"repa",
+				"Reg Replace: Replace Underscores With Dashes"
+			],
+			[
+				"repl",
+				"Reg Replace: Remove Excessive Spaces"
+			],
+			[
+				"gith",
+				"GitHub: Public Gist from Selection"
+			],
+			[
+				"spa",
+				"Reg Replace: Replace With Spaces"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"rev",
+				"Permute Lines: Reverse"
+			],
+			[
+				"unuq",
+				"Permute Lines: Unique"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown Customized"
+			],
+			[
+				"di",
+				"Set Syntax: Diff"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Snippet: jQuery.inArray"
+			],
+			[
+				"ra",
+				"Random:Date"
+			],
+			[
+				"num",
+				"Number Sequence"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"lin",
+				"Permute Lines: Unique"
+			],
+			[
+				"numb",
+				"Number Sequence"
+			],
+			[
+				"new v",
+				"File: New View into File"
+			],
+			[
+				"chang",
+				"Change List: Show"
+			],
+			[
+				"quote",
+				"Reg Replace: Remove quotes"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 552.0
+	},
+	"console":
+	{
+		"height": 179.0,
+		"history":
+		[
+			"------------",
+			"f",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/docs/Study/certainlyakey.github.io",
+		"/Volumes/docs/Study/certainlyakey.github.io/_posts"
+	],
+	"file_history":
+	[
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/sidebar-widget/_sidebar-widget.scss",
+		"/Volumes/docs/Study/art-rukav/site/Gulpfile.js",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/inpost-gallery/_inpost-gallery.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/sectiontitle/_sectiontitle.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/scripts/modules/sectiontitle.js",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/abstracts/_mixins.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/abstracts/global/_mixins.scss",
+		"/Users/aleksandrbeliaev/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/docs/Study/art-rukav/site/app/src/scripts/main.js",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/news/index.twig",
+		"/Volumes/docs/Study/art-rukav/site/art-rukav.sublime-project",
+		"/Volumes/docs/Study/art-rukav/site/app/public/styles/main.css",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_layout.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_single.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_channel/_entry.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_macros/reusable_macros.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/inpostgallery/_inpostgallery.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/scripts/modules/doubleslideshow.js",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/fullslideshowgroup/_fullslideshowgroup.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/doubleslideshow/_doubleslideshow.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/cat-filter/_cat-filter.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_macros/catfilter.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/single-news/_single-post.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/pages/_single-artwork.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/persons-group/_persons-group.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/textwidget/_textwidget.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/artworks/_entry.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_singles/art.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/diamondgallery/_diamondgallery.scss",
+		"/Volumes/docs/Study/art-rukav/site/package.json",
+		"/Volumes/docs/Study/art-rukav/site/app/src/scripts/modules/fullslideshowgroup.js",
+		"/Volumes/docs/Study/art-rukav/site/app/src/scripts/modules/diamondgallery.js",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_singles/studies.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/abstracts/global/_functions.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/captionedgroup/_captionedgroup.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/pages/_single.scss",
+		"/Volumes/docs/Dropbox/docs/notes/Text Shortcuts.txt",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/layout/_main.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/flyingbox/_flyingbox.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/vertcards/_vertcards-group.scss",
+		"/Volumes/docs/Study/art-rukav/site/.env",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/vertcards/_vertcard.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/pagination/_pagination.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/artworks/_genre.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_channel/index.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/artworks/index.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_partials/pagination.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_macros/eventdate.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_partials/sidebar.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/message/_message.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/vertcard/_vertcards-group.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/vertcard/_vertcard.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/index.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/services/index.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/classes/index.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/authors/index.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/mainmenu/_mainmenu.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/searchform/_searchform.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/main.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/abstracts/_variables.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/base/_base.scss",
+		"/Volumes/docs/Study/art-rukav/site/app/craft/templates/_partials/teaser-bigcard.twig",
+		"/Volumes/docs/Study/art-rukav/site/app/src/styles/components/diamondlink/_diamondlink.scss",
+		"/Volumes/docs/Dropbox/docs/notes/master's thesis notes.txt",
+		"/Volumes/docs/Dropbox/docs/study/master's/master-plan.md",
+		"/Volumes/docs/Study/certainlyakey.github.io/_posts/2016-01-10-essay.md",
+		"/Volumes/docs/Study/certainlyakey.github.io/_posts/2016-10-10-bgtd-asg4.md",
+		"/Volumes/docs/Study/certainlyakey.github.io/_config.yml",
+		"/Volumes/docs/Study/certainlyakey.github.io/style.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/index.template.php",
+		"/Volumes/docs/Study/certainlyakey.github.io/certainlyakey-github-io.sublime-project",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/agronet.sublime-project",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/css/rtl.css",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_help.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_search-advanced.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_search-results.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_search-basic.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/css/index.css",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_memberlist.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_calendar.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_pm.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_stats.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_profile.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_errors.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_generic-tables.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_sidebar.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_maintenance.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_registration.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_login.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_merge-topic.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_split-topic.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_report-topic.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_send-topic.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/proagria/_move-topic.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_recent-messages.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/abstracts/_mixins.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/proagria/_edit-event.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_edit-poll.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_edit-post.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_quick-reply.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_topic-single.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_topics-index.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_info-center.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_board-index.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_table.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_footer.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/layout/_footer.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_button-lists.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_color-related.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_bbc.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/abstracts/default/_common-classes.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_dropdowns.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_autosuggest.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/gulpfile.js",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/base/_base.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_division-corners.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_main-content.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_rounded-headers.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_settings-lists.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_ajax-notification.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/default/_bbc-related.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/components/example-component/_example-component.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/pages/_single.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/Settings.template.php",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/vendors/_vendors.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/_dependencies.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/base/default/_base.scss",
+		"/Users/aleksandrbeliaev/Sites/agronet/smf_vm/git/Agronet/scss/abstracts/_variables.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.scss",
+			"*.twig",
+			"<open files>",
+			"*.twig",
+			"*.scss",
+			"*.twig",
+			"*.scss",
+			"*.twig",
+			"*.scss",
+			"*.twig",
+			"*.scss",
+			"*.twig",
+			"*.php",
+			"*.scss",
+			"*.twig",
+			"*.php",
+			"*.scss",
+			"*.twig",
+			"*.scss",
+			"*.twig",
+			"*.php",
+			"*.scss",
+			"*.sass",
+			"*.twig",
+			"*.scss",
+			"*.twig",
+			"*.scss",
+			"*.twig",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/features/*, -*/bower_components/*",
+			"*.twig",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.js, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"-*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.php, *.inc, *.module, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.js, -*/html/*, -*/features/*, -*/bower_components/*",
+			"*.scss, -*/html/*, -*/features/*, -*/bower_components/*",
+			"-*/html/*, -*/features/*, -*/bower_components/*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CSS",
+			"sidebar-widget",
+			"c-section-title",
+			"16px",
+			"$local-padding-x-wider",
+			"c-single-news__meta",
+			"$color-accent",
+			"white",
+			"%u-image-autowidth",
+			"auto",
+			"width: auto",
+			"width:auto",
+			"gallery_sel",
+			"extra-wrapper",
+			"cl",
+			"$local-paging-spacing",
+			"20px",
+			"'margin'",
+			"margin",
+			"22px",
+			"$local-paging-spacing",
+			"22px",
+			"-$spacing-x",
+			"true",
+			"quote",
+			"alt",
+			"text",
+			"slide-title",
+			"gallery_item",
+			"getUrl",
+			"gallery_item",
+			"slider",
+			"c-inpost-gallery__paging-item",
+			"js-slick-paging",
+			"c-inpost-gallery",
+			"notify",
+			"plugins",
+			"-$spacing-x",
+			"-$col-layout-main-padx",
+			"@include spacing-x(-",
+			"$local-padding-x",
+			"$col-layout-main-padx",
+			"$gutter",
+			"gutter",
+			"$col-layout-gutter",
+			"$local-padding-x",
+			"22px",
+			"bigrectangle",
+			"$gutter",
+			"c-maincol",
+			"c-single-news",
+			"emmet",
+			"content",
+			"c-single-news",
+			"content_after",
+			"content_before",
+			"470px",
+			"$sidebar-width",
+			"470px",
+			"c-aside-left",
+			"c-sidebar",
+			"c-inpost-gallery",
+			"postdate",
+			"doubleslideshow",
+			"inpostgallery",
+			"doubleslideshow",
+			"c-inpost-gallery",
+			"$colo",
+			"$color-darkgray",
+			"$color-text",
+			"white",
+			"t-arrows",
+			"currentColor",
+			"$color",
+			"12px",
+			"color",
+			"$color-gray",
+			"979797",
+			"-45deg",
+			"after",
+			"left",
+			"$position-x",
+			"$left",
+			"$x",
+			"12px",
+			"$top",
+			"15px",
+			"left",
+			"$left",
+			"after",
+			"c-single-post",
+			"c-postdate",
+			"post-date",
+			"c-postdate",
+			"$local-padding-x",
+			"$pseudoel",
+			"t-diagonal-separator",
+			"o-horizontal-text-menu",
+			"c-postdate",
+			"c-single-news__date",
+			"c-single-post",
+			"c-single-news__time",
+			"c-postdate",
+			"bold",
+			"$local-padding-x",
+			"height",
+			"$local-padding-x",
+			"22px",
+			"spacing",
+			"16px",
+			"%t-post-heading",
+			"c-inpost-gallery",
+			"\">",
+			"c-single-news__eventtype",
+			"class",
+			"c-single-news__cats",
+			"c-single-news__meta",
+			"c-single-news__heading",
+			"class",
+			"related_categories",
+			"$color-darkgray",
+			"doubleslideshow",
+			"c-single__heading",
+			"c-single-news",
+			"%t-post-heading",
+			"__item",
+			"o-horizontal-text-menu",
+			"c-single-news"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$doubleslideshow-frame-bdwidth",
+			" ",
+			"\\n \\-",
+			">\\n",
+			" aria-required=\"true\" required",
+			"aria-required=\"true\" required",
+			"\\n<",
+			"></",
+			"{{",
+			"---",
+			"absolute",
+			"\\'",
+			"https://raw.githubusercontent.com/Galuev/159000-gllacy/master/img/",
+			"",
+			"https://raw.githubusercontent.com/Bolshakovaev/165059-sedona/master/img/",
+			"https://raw.githubusercontent.com/gnosticotick/165096-sedona/master/img/",
+			"<input type=\"range\" min=\"1\" max=\"10\">",
+			"",
+			"https://raw.githubusercontent.com/Bolshakovaev/165059-sedona/master/img/",
+			"https://raw.githubusercontent.com/Bolshakovaev/165059-sedona/master/img",
+			"../https://raw.githubusercontent.com/gnosticotick/165096-sedona/master/i",
+			"src=\"https://raw.githubusercontent.com/gnosticotick/165096-sedona/master/i",
+			"https://finnvera.fi"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2016-10-26-bgtd-final.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6241,
+								6241
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 55,
+								"count": 1067,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+								30.0
+							],
+							"synced": false,
+							"syntax": "Packages/User/Markdown Customized.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 710.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "Packages/User/Build Systems/Markdown to RevealJS3.sublime-build",
+	"project": "certainlyakey-github-io.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gul",
+				"site/Gulpfile.js"
+			],
+			[
+				"mai",
+				"src/styles/main.scss"
+			],
+			[
+				"sec",
+				"src/styles/components/sectiontitle/_sectiontitle.scss"
+			],
+			[
+				"sect",
+				"src/scripts/modules/sectiontitle.js"
+			],
+			[
+				"mixi",
+				"src/styles/abstracts/_mixins.scss"
+			],
+			[
+				"gu",
+				"site/Gulpfile.js"
+			],
+			[
+				"",
+				"src/styles/components/single-post/_single-post.scss"
+			],
+			[
+				"inpo",
+				"src/styles/components/inpost-gallery/_inpost-gallery.scss"
+			],
+			[
+				"lay",
+				"templates/_layout.twig"
+			],
+			[
+				"sing",
+				"templates/_single.twig"
+			],
+			[
+				"js",
+				"src/scripts/main.js"
+			],
+			[
+				"full",
+				"src/styles/components/fullslideshowgroup/_fullslideshowgroup.scss"
+			],
+			[
+				"catf",
+				"src/styles/components/cat-filter/_cat-filter.scss"
+			],
+			[
+				"cat",
+				"templates/_macros/catfilter.twig"
+			],
+			[
+				"reu",
+				"templates/_macros/reusable_macros.twig"
+			],
+			[
+				"sinpo",
+				"src/styles/components/single-post/_single-post.scss"
+			],
+			[
+				"at",
+				"templates/_singles/art.twig"
+			],
+			[
+				"var",
+				"src/styles/abstracts/_variables.scss"
+			],
+			[
+				"pers",
+				"src/styles/components/persons-group/_persons-group.scss"
+			],
+			[
+				"re",
+				"templates/_macros/reusable_macros.twig"
+			],
+			[
+				"tex",
+				"src/styles/components/textwidget/_textwidget.scss"
+			],
+			[
+				"res",
+				"templates/_macros/reusable_macros.twig"
+			],
+			[
+				"pac",
+				"site/package.json"
+			],
+			[
+				"reus",
+				"templates/_macros/reusable_macros.twig"
+			],
+			[
+				"dim",
+				"src/styles/components/diamondgallery/_diamondgallery.scss"
+			],
+			[
+				"fu",
+				"src/styles/abstracts/global/_functions.scss"
+			],
+			[
+				"glo",
+				"src/styles/abstracts/global/_mixins.scss"
+			],
+			[
+				"stu",
+				"templates/_singles/studies.twig"
+			],
+			[
+				"glob",
+				"src/styles/abstracts/global/_mixins.scss"
+			],
+			[
+				"macr",
+				"templates/_macros/reusable_macros.twig"
+			],
+			[
+				"st",
+				"templates/_singles/studies.twig"
+			],
+			[
+				"dia",
+				"src/styles/components/diamondgallery/_diamondgallery.scss"
+			],
+			[
+				".en",
+				"site/.env"
+			],
+			[
+				"fly",
+				"src/styles/components/flyingbox/_flyingbox.scss"
+			],
+			[
+				"stud",
+				"templates/_singles/studies.twig"
+			],
+			[
+				"vert",
+				"src/styles/components/vertcards/_vertcards-group.scss"
+			],
+			[
+				"ver",
+				"src/styles/components/vertcards/_vertcard.scss"
+			],
+			[
+				"lia",
+				"templates/_layout.twig"
+			],
+			[
+				"pag",
+				"templates/_partials/pagination.twig"
+			],
+			[
+				"gen",
+				"templates/artworks/_genre.twig"
+			],
+			[
+				"index",
+				"templates/_channel/index.twig"
+			],
+			[
+				"artw",
+				"templates/artworks/index.twig"
+			],
+			[
+				"ind",
+				"templates/index.twig"
+			],
+			[
+				"m",
+				"src/styles/main.scss"
+			],
+			[
+				"mix",
+				"src/styles/abstracts/global/_mixins.scss"
+			],
+			[
+				"_ma",
+				"src/styles/layout/_main.scss"
+			],
+			[
+				"_bas",
+				"Agronet/scss/base/_base.scss"
+			],
+			[
+				"capt",
+				"src/styles/components/captionedgroup/_captionedgroup.scss"
+			],
+			[
+				"fullslideshowgroup",
+				"src/styles/components/fullslideshowgroup/_fullslideshowgroup.scss"
+			],
+			[
+				"ma",
+				"src/styles/layout/_main.scss"
+			],
+			[
+				"sectiontitle",
+				"src/styles/components/sectiontitle/_sectiontitle.scss"
+			],
+			[
+				"glomix",
+				"src/styles/abstracts/global/_mixins.scss"
+			],
+			[
+				"back",
+				"src/styles/components/backdroppedgroup/_backdroppedgroup.scss"
+			],
+			[
+				"diamondlink",
+				"src/styles/components/diamondlink/_diamondlink.scss"
+			],
+			[
+				"main",
+				"src/styles/main.scss"
+			],
+			[
+				"mac",
+				"templates/_macros/reusable_macros.twig"
+			],
+			[
+				"searchform",
+				"src/styles/components/searchform/_searchform.scss"
+			],
+			[
+				"ve",
+				"src/styles/components/vertcard/_vertcard.scss"
+			],
+			[
+				"hea",
+				"templates/_partials/header.twig"
+			],
+			[
+				"foo",
+				"templates/_partials/footer.twig"
+			],
+			[
+				"diam",
+				"src/styles/components/diamondlink/_diamondlink.scss"
+			],
+			[
+				"sca",
+				"src/styles/base/_scaffolding.scss"
+			],
+			[
+				"sli",
+				"src/styles/vendors/_slick.css"
+			],
+			[
+				"la",
+				"templates/_layout.twig"
+			],
+			[
+				"art",
+				"templates/_singles/art.twig"
+			],
+			[
+				"print",
+				"git/site/themes/autoliitto/scss/layout/_print.scss"
+			],
+			[
+				"acc",
+				"exove/lections/accessibility_pres/accessibility_pres.md"
+			],
+			[
+				"cus",
+				"_common/resources/customhtml.html"
+			],
+			[
+				"temp",
+				"git/site/themes/autoliitto/template.php"
+			],
+			[
+				"aujs",
+				"git/site/themes/autoliitto/js/_autoliitto.js"
+			],
+			[
+				"htm",
+				"templates/html.tpl.php"
+			],
+			[
+				"elem",
+				"scss/base/_elements.scss"
+			],
+			[
+				"hyy",
+				"js/_hyy.js"
+			],
+			[
+				"view",
+				"scss/modules/_views.scss"
+			],
+			[
+				"tem",
+				"template_dev.php"
+			],
+			[
+				"sett",
+				"scss/base/_settings.scss"
+			],
+			[
+				"ele",
+				"scss/base/_elements.scss"
+			],
+			[
+				"chan",
+				"templates/_channel/index.twig"
+			],
+			[
+				"news",
+				"templates/news/_entry.twig"
+			],
+			[
+				"tea",
+				"templates/_partials/teaser-bigcard.twig"
+			],
+			[
+				"teas",
+				"templates/_channel/teaser.twig"
+			],
+			[
+				"css",
+				"src/styles/main.scss"
+			],
+			[
+				"in",
+				"templates/news/index.twig"
+			],
+			[
+				"ne",
+				"templates/news/_entry.twig"
+			],
+			[
+				"cha",
+				"templates/_channel/_entry.twig"
+			],
+			[
+				"channe",
+				"templates/_channel/_entry.twig"
+			],
+			[
+				"page/e",
+				"templates/pages/_entry.twig"
+			],
+			[
+				"te",
+				"templates/_channel/teaser.twig"
+			],
+			[
+				"hyy.",
+				"js/_hyy.js"
+			],
+			[
+				"sty",
+				"templates/nodes/node--liftup--liftup-style-2.tpl.php"
+			],
+			[
+				"hen",
+				"templates/nodes/node--henkil-kunta--teaser.tpl.php"
+			],
+			[
+				"_he",
+				"scss/layout/_header.scss"
+			],
+			[
+				"_off",
+				"scss/modules/_offscreen-sidebar.scss"
+			],
+			[
+				"style",
+				"templates/nodes/node--liftup--liftup-style-2.tpl.php"
+			],
+			[
+				"lan",
+				"templates/nodes/node--landing-page.tpl.php"
+			],
+			[
+				"views-view-fields--search--search-block.tpl.php",
+				"templates/views/views-view-fields--search--search-block.tpl.php"
+			],
+			[
+				"sear",
+				"templates/views/views-view--search--search-block.tpl.php"
+			],
+			[
+				"sea",
+				"scss/modules/_search-form.scss"
+			],
+			[
+				"head",
+				"scss/layout/_header.scss"
+			],
+			[
+				"fro",
+				"scss/modules/_front-menu.scss"
+			],
+			[
+				"main.",
+				"scss/layout/_main.scss"
+			],
+			[
+				"asi",
+				"scss/layout/_aside.scss"
+			],
+			[
+				"aside",
+				"scss/layout/_aside.scss"
+			],
+			[
+				"_ser",
+				"scss/modules/_search-form.scss"
+			],
+			[
+				"page",
+				"templates/page.tpl.php"
+			],
+			[
+				"_h",
+				"js/_hyy.js"
+			],
+			[
+				"style-2",
+				"templates/nodes/node--liftup--liftup-style-2.tpl.php"
+			],
+			[
+				"node",
+				"templates/nodes/node--liftup--liftup-style-1.tpl.php"
+			],
+			[
+				"laa",
+				"templates/nodes/node--landing-page.tpl.php"
+			],
+			[
+				".e",
+				"art-rukav/.env"
+			],
+			[
+				"h",
+				"js/_hyy.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"bowe",
+				"bower.json"
+			],
+			[
+				"gr",
+				"Gruntfile.js"
+			],
+			[
+				"_as",
+				"scss/layout/_aside.scss"
+			],
+			[
+				"templ",
+				"template.php"
+			],
+			[
+				"node.",
+				"templates/nodes/node.tpl.php"
+			],
+			[
+				"fron",
+				"scss/modules/_front-menu.scss"
+			],
+			[
+				"_js",
+				"js/_hyy.js"
+			],
+			[
+				"hy.",
+				"css/hyy.css"
+			],
+			[
+				"hyy.c",
+				"css/hyy.css"
+			],
+			[
+				"_se",
+				"scss/base/_settings.scss"
+			],
+			[
+				"_ele",
+				"scss/base/_elements.scss"
+			],
+			[
+				"init",
+				"scss/base/_init.scss"
+			],
+			[
+				"_sett",
+				"scss/base/_settings.scss"
+			],
+			[
+				"hy.c",
+				"css/hyy.css"
+			],
+			[
+				"tem/",
+				"bower_components/modernizr/test/caniuse_files/mathml.html"
+			],
+			[
+				"scss",
+				"scss/hyy.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
